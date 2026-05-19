@@ -13,7 +13,8 @@ namespace Test_My_New_Webapi_application.Controllers
             {
                 "Harish",
                 "Ravi",
-                "Kiran"
+                "Kiran",
+                "Pavan"
             };
 
             return Ok(employees);
